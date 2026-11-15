@@ -1,5 +1,5 @@
 {
-  "repository": "VpSanta33/SRC-Monitoring",
+  "repository": "bronnywang/SRC-Monitoring",
   "workflow": "pages.yml",
   "schedule": "17,47 * * * *",
   "timezone": "UTC",
