@@ -4,7 +4,7 @@
     {
       "name": "sources-000000.jsonl",
       "table": "sources",
-      "sha256": "7c1fbcdafd5b618f854b7b0b6e4ac2090c9ad5a0ab2d2de0eef9f67e86203bff",
+      "sha256": "b8c94cba1cbcfc7b39ac5f87f37df31e496095178e042b6937522dff6a2f4508",
       "rows": 2
     },
     {
@@ -82,8 +82,8 @@
     {
       "name": "runs-000000.jsonl",
       "table": "runs",
-      "sha256": "926b88f87b3a440de7f8b8e97f0317610e133cce942c4230f7d57e75ddd2989c",
-      "rows": 2
+      "sha256": "380b24ed5b5d00416cd4c0ae1c205ed83083ecd69647fd500a00123607a76f60",
+      "rows": 4
     },
     {
       "name": "site_metadata-000000.jsonl",
