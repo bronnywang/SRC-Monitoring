@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "name": "sources-000000.jsonl",
+      "table": "sources",
+      "sha256": "7c1fbcdafd5b618f854b7b0b6e4ac2090c9ad5a0ab2d2de0eef9f67e86203bff",
+      "rows": 2
+    },
+    {
+      "name": "records-000000.jsonl",
+      "table": "records",
+      "sha256": "e6783347dc7916284c991726afcfa760ef7c71ec7c8c00890d9d776ec39b8e2f",
+      "rows": 5000
+    },
+    {
+      "name": "records-000001.jsonl",
+      "table": "records",
+      "sha256": "e9e0ab776027c68b63bcbdf39b092beb4daad4dd04add443d55f5eadc3683a64",
+      "rows": 5000
+    },
+    {
+      "name": "records-000002.jsonl",
+      "table": "records",
+      "sha256": "fd1e2faf52707223fe1b7087cb8ebd5241a8aa02a14cc0cefa272bdb85e5a014",
+      "rows": 5000
+    },
+    {
+      "name": "records-000003.jsonl",
+      "table": "records",
+      "sha256": "9f95534dd1beb6ea6c7adc8f8e0e8f65865db563b62a1a561c73570ffee52992",
+      "rows": 5000
+    },
+    {
+      "name": "records-000004.jsonl",
+      "table": "records",
+      "sha256": "901dfc28ed436af4d76124e8e2119a551ed99f0d9b548d381b309302a23a8db6",
+      "rows": 5000
+    },
+    {
+      "name": "records-000005.jsonl",
+      "table": "records",
+      "sha256": "95750090bd9bfff850762aa93da5e43b058bc2d36afd304b39083a73d0ccb6cc",
+      "rows": 5000
+    },
+    {
+      "name": "records-000006.jsonl",
+      "table": "records",
+      "sha256": "8b5a210c053635f1f6bebda01d9677ea90a99ddf088863cfc9350d7ffcf917c8",
+      "rows": 5000
+    },
+    {
+      "name": "records-000007.jsonl",
+      "table": "records",
+      "sha256": "0062a58a2472be3b2d54bbd6677cd6ed3e439cba9906f4e5960fa475e47519d6",
+      "rows": 5000
+    },
+    {
+      "name": "records-000008.jsonl",
+      "table": "records",
+      "sha256": "202449300305f050ee257ae7189d07f2e08ff2058612b405497cad14b5c649c3",
+      "rows": 5000
+    },
+    {
+      "name": "records-000009.jsonl",
+      "table": "records",
+      "sha256": "ea39501c41c201b249b439852ac662dc0f7a813f894583f95fea810ff692b2c4",
+      "rows": 5000
+    },
+    {
+      "name": "records-000010.jsonl",
+      "table": "records",
+      "sha256": "9b548e8438847dece0914024ec2d5469690b3ffceba53297981ca948fa860b00",
+      "rows": 234
+    },
+    {
+      "name": "changes-000000.jsonl",
+      "table": "changes",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rows": 0
+    },
+    {
+      "name": "runs-000000.jsonl",
+      "table": "runs",
+      "sha256": "926b88f87b3a440de7f8b8e97f0317610e133cce942c4230f7d57e75ddd2989c",
+      "rows": 2
+    },
+    {
+      "name": "site_metadata-000000.jsonl",
+      "table": "site_metadata",
+      "sha256": "ccb76d21fdc72911fd808746193901bf5d9c1798b8307d8085c5bdf7189f954e",
+      "rows": 1
+    }
+  ]
+}
