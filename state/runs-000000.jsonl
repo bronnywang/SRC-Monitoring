@@ -46,3 +46,5 @@
 {"assets":4124,"changes":0,"finished_at":"2026-11-21T20:07:04Z","id":46,"message":"远端快照未变化（304）","platform":"bugcrowd","programs":296,"started_at":"2026-11-21T20:07:04Z","status":"success"}
 {"assets":45578,"changes":0,"finished_at":"2026-11-22T00:21:40Z","id":47,"message":"快照比对完成","platform":"hackerone","programs":448,"started_at":"2026-11-22T00:21:39Z","status":"success"}
 {"assets":4124,"changes":0,"finished_at":"2026-11-22T00:21:43Z","id":48,"message":"远端快照未变化（304）","platform":"bugcrowd","programs":296,"started_at":"2026-11-22T00:21:43Z","status":"success"}
+{"assets":45578,"changes":0,"finished_at":"2026-11-22T07:29:32Z","id":49,"message":"快照比对完成","platform":"hackerone","programs":448,"started_at":"2026-11-22T07:29:31Z","status":"success"}
+{"assets":0,"changes":0,"finished_at":"2026-11-22T07:29:35Z","id":50,"message":"项目标识重复","platform":"bugcrowd","programs":0,"started_at":"2026-11-22T07:29:35Z","status":"failed"}
